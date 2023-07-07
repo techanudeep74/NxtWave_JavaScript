@@ -1,0 +1,35 @@
+.bg-container {
+    background-color: #3a6781;
+    padding: 30px;
+    height: 100vh;
+}
+.heading {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 500;
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.list-container {
+    background-color: whitesmoke;
+    border-radius: 12px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+.delivery-text {
+    font-family: "Roboto";
+    font-size: 16px;
+    color: aliceblue;
+    margin-left: 5px;
+}
+.button {
+    border-radius: 10px;
+    text-align: center;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
